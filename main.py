@@ -1,8 +1,6 @@
 # Realiza un programa que pida al usuario que ingrese un texto, Luego, el programa le va a pedir al usuario que
 # también ingrese tres letras a su elección y a partir de ese momento nuestro código va a procesar esa información
 # para hacer cinco tipos de análisis y devolverle al usuario la siguiente información:
-from os.path import split
-
 
 # Primero: ¿cuántas veces aparece cada una de las letras que eligió? Para lograr esto, te
 # recomiendo almacenar esas letras en una lista y luego usar algún método propio de string
@@ -30,8 +28,6 @@ from os.path import split
 
 # Solo se puede usar metodos y propiedades de los strings, inexar, conjuntos de datos y boleanos.
 # No se puede usar condiciones ni bucles.
-
-
 
 
 def main():
